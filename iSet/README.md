@@ -18,7 +18,7 @@ By Francesco Paolo Casale (casale@ebi.ac.uk), Danilo Horta (horta@ebi.ac.uk) and
 
 * Download and install Limix
 ```bash
-git clone --depth 1 https://github.com/PMBio/limix.git
+git clone --depth 1 https://github.com/limix/limix.git
 pushd limix
 python setup.py install
 ```
