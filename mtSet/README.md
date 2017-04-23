@@ -1,13 +1,11 @@
 # Multi Trait Set Test (mtSet)
 
-Set tests are a powerful approach for association testing between groups of genetic variants and quantitative traits.
-In this tutorial we demonstrate how to use set tests within the LIMIX framework to test for association (mtSet).
-
-# mtSet
-
 Multi Trait Set test is an implementation of efficient set test algorithms for testing for associations between multiple genetic variants and multiple traits.
 mtSet can account for confounding factors such as relatedness and can be used for analysis of single traits.
-mtSet can be used both with the command line interface using the limix scripts (`mtSet_preprocess`, `mtSet_analyze`, `mtSet_postprocess`, `mtSet_simPheno`) or within python.
+
+Below we show how to use mtSet from command line using the limix scripts (`mtSet_preprocess`, `mtSet_analyze`, `mtSet_postprocess`, `mtSet_simPheno`).
+
+mtSet can also be used within python as shown in [iPython notebook tutorial](Multi_trait_set_test.ipynb).
 
 ## Quick Start
 
