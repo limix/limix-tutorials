@@ -9,7 +9,7 @@ iSet can be applied for interaction analysis in two data designs:
 
 A detailed description of the method can be found at [1].
 
-[1] Casale FP, Rakitsch B, Lippert C, Stegle O. Efficient set tests for the genetic analysis of correlated traits. Nature methods. 2015 Aug 1;12(8):755-8. ([link](http://www.nature.com/nmeth/journal/v12/n8/abs/nmeth.3439.html))
+[1] Casale FP, Horta D, Rakitsch B, Stegle O. Joint genetic analysis using variant sets reveals polygenic gene-context interactions. PLoS Genetics. 2017. ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006693))
 
 ## Installation
 
