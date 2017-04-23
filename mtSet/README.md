@@ -232,3 +232,14 @@ where
 __outfile__.perm lists the test statistics (first column) and p-values (second column) of the permutated windows
 __outfile__.test contains the (index, chromosome, start position, stop position, SNP index, number of SNPs, test statistics and p-value) of each window. Each window is saved in one row.
 * __manhattan\_plot__ is a flag. If set, a manhattan plot is saved in __outfile__.manhattan.jpg (default: False).
+
+# Developers
+
+- Francesco Paolo Casale (<casale@ebi.ac.uk>)
+- Barbara Rakitsch (<rakitsch@ebi.ac.uk>)
+- Danilo Horta (<horta@ebi.ac.uk>)
+- Oliver Stegle (<stegle@ebi.ac.uk>)
+
+# References
+
+[1] Genomes Project, C. et al. An integrated map of genetic variation from 1,092 human genomes. Nature 491, 56-65 (2012).
