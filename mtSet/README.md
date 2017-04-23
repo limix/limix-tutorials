@@ -5,7 +5,7 @@ mtSet can account for confounding factors such as relatedness and can be used fo
 A detailed description of the method can be found at [1].
 
 [1] Casale FP, Rakitsch B, Lippert C, Stegle O. Efficient set tests for the genetic analysis of correlated traits. Nature methods. 2015 Aug 1;12(8):755-8. ([link][2])
-[1]:http://www.nature.com/nmeth/journal/v12/n8/abs/nmeth.3439.html
+[2]:http://www.nature.com/nmeth/journal/v12/n8/abs/nmeth.3439.html
 
 ## Tutorials
 
