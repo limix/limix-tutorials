@@ -5,7 +5,7 @@ mtSet can account for confounding factors such as relatedness and can be used fo
 
 Below we show how to use mtSet from command line using the limix scripts (`mtSet_preprocess`, `mtSet_analyze`, `mtSet_postprocess`, `mtSet_simPheno`).
 
-mtSet can also be used within python as shown in [iPython notebook tutorial](Multi_trait_set_test.ipynb).
+mtSet can also be used within python as shown in [iPython notebook tutorial](http://nbviewer.jupyter.org/github/pmbio/limix-tutorials/blob/master/mtSet/Multi_trait_set_test.ipynb).
 
 ## Quick Start
 
