@@ -6,7 +6,7 @@ This repository hosts iPython notebook that showcase the use of LIMIX while
 the actual source repository can be found here: https://github.com/limix/limix.
 
 These tutorials can also be viewed using the ipython notebook viewer:
-http://nbviewer.ipython.org/github/pmbio/limix-tutorials/blob/master/index.ipynb.
+http://nbviewer.ipython.org/github/limix/limix-tutorials/blob/master/index.ipynb.
 
 A description of the public interface is found at https://limix.readthedocs.io/.
 
