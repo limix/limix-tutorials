@@ -1,15 +1,17 @@
 # LIMIX tutorials and package Vignette 
 
-## What is LIMIX? 
+Limix is a flexible and efficient linear mixed model library with interfaces to Python.
 
-This repository only include usage cases and examples that illustrate how LIMIX can be applied to diverse genetic datasets. 
-The actual source repository of LIMIX can be found here: https://github.com/PMBio/limix.
+This repository hosts iPython notebook that showcase the use of LIMIX while
+the actual source repository can be found here: https://github.com/limix/limix.
 
-## Where to start
-This repository hosts package vignettes for LIMIX. 
-An overview of example use cases and documentaiton can be found here:
-http://nbviewer.ipython.org/github/pmbio/limix-tutorials/blob/master/index.ipynb.
-Alternatively, you can checkout this repository locally.
+These tutorials can also be viewed using the ipython notebook viewer:
+http://nbviewer.ipython.org/github/limix/limix-tutorials/blob/master/index.ipynb.
+
+A description of the public interface is found at https://limix.readthedocs.io/.
+
+## Install
+We refer to the source [Limix repository](https://github.com/limix/limix) for instructions on installation and more.
 
 ## Problems ?
 If you want to use LIMIX and encounter any issues, please contact us by email: limix@mixed-models.org
