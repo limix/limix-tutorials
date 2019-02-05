@@ -1,0 +1,6 @@
+pip
+pytest
+seaborn
+setuptools
+sphinx
+limix
