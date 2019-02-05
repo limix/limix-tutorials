@@ -4,3 +4,4 @@ seaborn
 setuptools
 sphinx
 limix
+nbval
