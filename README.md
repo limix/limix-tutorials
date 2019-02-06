@@ -2,5 +2,5 @@
 
 # Limix tutorials
 
-- [eQTL](https://mybinder.org/v2/gh/limix/limix-tutorials/develop?filepath=eQTL.ipynb)
-- [Struct-LMM](https://mybinder.org/v2/gh/limix/limix-tutorials/develop?filepath=struct-lmm.ipynb)
+- [eQTL](https://mybinder.org/v2/gh/limix/limix-tutorials/master?filepath=eQTL.ipynb)
+- [Struct-LMM](https://mybinder.org/v2/gh/limix/limix-tutorials/master?filepath=struct-lmm.ipynb)
