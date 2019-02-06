@@ -1,0 +1,17 @@
+language: python
+python:
+  - 3.6
+addons:
+  apt:
+    packages:
+      - libffi-dev
+      - libffi6
+script:
+  - pip install -r requirements.txt
+  - py.test --nbval
+notifications:
+  email:
+    recipients:
+      - danilo.horta@pm.me
+    on_success: never
+    on_failure: always
