@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/travis/com/limix/master.svg?style=for-the-badge)](https://travis-ci.com/limix/limix-tutorials)
+[![Travis](https://img.shields.io/travis/com/limix/master.svg)](https://travis-ci.com/limix/limix-tutorials) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/horta/limix-tutorials/master)
 
 # Limix tutorials
 
