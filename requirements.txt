@@ -3,5 +3,5 @@ pytest
 seaborn
 setuptools
 sphinx
-limix
+limix>=2.0.2
 nbval
