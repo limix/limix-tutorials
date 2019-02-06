@@ -1,4 +1,4 @@
-![](https://img.shields.io/travis/com/limix/master.svg?style=for-the-badge)
+[![Travis](https://img.shields.io/travis/com/limix/master.svg?style=for-the-badge)](https://travis-ci.com/limix/limix-tutorials)
 
 # Limix tutorials
 
